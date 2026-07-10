@@ -177,35 +177,6 @@ Examples of insights generated from the dashboard:
 
 ---
 
-# 📁 Project Structure
-
-```
-Vodafone-Telecommunications-Dashboard/
-│
-├── data/
-│   ├── subscribers_clean.csv
-│   ├── subscriptions_clean.csv
-│   ├── recharges_clean.csv
-│   ├── shop_sales_clean.csv
-│   └── complaints_clean.csv
-│
-├── notebooks/
-│   └── Data_Cleaning.ipynb
-│
-├── powerbi/
-│   └── Vodafone_Dashboard.pbix
-│
-├── images/
-│   ├── home.png
-│   ├── subscribers.png
-│   ├── subscriptions.png
-│   ├── recharges.png
-│   ├── shop_sales.png
-│   └── complaints.png
-│
-└── README.md
-```
-
 ---
 
 # 🚀 Future Improvements
@@ -218,26 +189,6 @@ Vodafone-Telecommunications-Dashboard/
 
 ---
 
-# 📷 Dashboard Preview
-
-*(Add screenshots of your Power BI pages here.)*
-
-Example:
-
-```
-Home Dashboard
-```
-
-(Add image)
-
-```
-Subscribers Dashboard
-```
-
-(Add image)
-
----
-
 # 📬 Contact
 
 **Name:** Shahd Abdelghany
@@ -246,9 +197,9 @@ Faculty of Computers and Information
 
 South Valley University
 
-GitHub: *(Your GitHub Profile)*
+GitHub: *[(Your GitHub Profile)](https://github.com/Shahd-Abdalghny)*
 
-LinkedIn: *(Your LinkedIn Profile)*
+LinkedIn: *[(Your LinkedIn Profile)](https://www.linkedin.com/in/shahd-elghny-gad/)*
 
 ---
 
